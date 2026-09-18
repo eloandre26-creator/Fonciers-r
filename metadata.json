@@ -1,0 +1,6 @@
+{
+  "name": "FoncierSûr",
+  "description": "Plateforme d'accompagnement et de sécurisation des démarches de titre foncier au Cameroun : guide MINDCAF, pré-vérification de titre, points de vigilance, assistant IA et annuaire de professionnels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
